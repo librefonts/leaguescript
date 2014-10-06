@@ -1,0 +1,42 @@
+{
+  "name": "League Script",
+  "designer": "Haley Fiege",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 39623,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LeagueScript-TTF.ttf",
+      "postScriptName": "LeagueScript",
+      "fullName": "League Script",
+      "copyright": ""
+    },
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LeagueScript-LeagueScript.ttf",
+      "postScriptName": "LeagueScript",
+      "fullName": "League Script",
+      "copyright": ""
+    },
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LeagueScriptThin-LeagueScript.ttf",
+      "postScriptName": "LeagueScriptThin-Regular",
+      "fullName": "LeagueScriptThin-Regular",
+      "copyright": "Generated in 2011 by FontLab Studio. Copyright info pending."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-09"
+}
